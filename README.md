@@ -4,7 +4,7 @@ The Token Factory allows simple creation of a standard ERC20 token on Ethereum. 
 
 It does not use an on-chain factory at this point in time.
 
-Disclaimer: This was app was built in part so that I can learn React as well. It's not the neatest code, so keep that in mind. If you want to help clean it up and maybe help move it to Redux (which I want to do), you are welcome to help.
+Disclaimer: This app was built in part so that I can learn React as well. It's not the neatest code, so keep that in mind. If you want to help clean it up and maybe help move it to Redux (which I want to do), you are welcome to help.
 
 Contracts & Tests are borrowed from Tokens repo. Using Truffle (with Webpack). Tested with Truffle@beta (v3.0.0-3).
 
